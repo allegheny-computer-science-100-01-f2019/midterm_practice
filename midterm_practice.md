@@ -30,12 +30,14 @@ Which package do you find Scanner class in?
 
 
 ### Question 6
-If `var1` is the name of an `int` variable and `var2` is the name of a `double` variable, the following two statements are acceptable to the Java compiler (do not generate errors):
+True or False. If `var1` is the name of an `int` variable and `var2` is the name of a `double` variable, the following two statements are acceptable to the Java compiler (do not generate errors):
 ~~~~
 var2 = var1 / 3.0;
 var1 = (int) var2;
 ~~~~
 
+- [ ] True
+- [ ] False
 
 ### Question 7
 Complete the following snippet of a program by writing appropriate Java statements that will calculate the area of the circle, converting the mathematical formula `circle = pi × radius^2` into correct Java representation using the Math class's methods.
