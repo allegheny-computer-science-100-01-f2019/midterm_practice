@@ -51,7 +51,7 @@ radius = scan.nextDouble();
 
 
 ### Question 8
-What are the final values of variables num1 and num2 in each of the following Java code segments? For each one, assume the initial values of `a` and `b` are given by:
+What are the final values of variables num1 and num2 in each of the following Java code segments? For each one, assume the initial values of `num1` and `num2` are given by:
 `int num1 = 10;`
 `int num2 = 40;`
 * a)
